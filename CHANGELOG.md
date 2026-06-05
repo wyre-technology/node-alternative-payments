@@ -1,3 +1,10 @@
+# 1.0.0 (2026-06-05)
+
+
+### Features
+
+* initial Alternative Payments SDK ([1c82a66](https://github.com/wyre-technology/node-alternative-payments/commit/1c82a667e14c7dc7190aa20c147082add7af10b0))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
